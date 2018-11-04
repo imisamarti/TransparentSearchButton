@@ -2,6 +2,15 @@
 /* Transparent Search Button  */
 /* with Bootstrap styling */
 
+
+/*As you can see, the class names
+looks similar to Bootstrap, but I implemented
+my own class names in case some people are not
+used to the Bootstrap Syntax.
+Feel free to change the names as you please to accommodate
+to your project
+*/
+
 .btn-med {
     font-weight: 700;
     text-transform: uppercase;

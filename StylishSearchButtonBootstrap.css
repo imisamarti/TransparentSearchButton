@@ -1,0 +1,25 @@
+/* Created by Isadora Martinez */
+/* Transparent Search Button  */
+/* with Bootstrap styling */
+
+.btn-med {
+    font-weight: 700;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 300px;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.btn-search-transparent{
+    width: 130px;
+    box-sizing: border-box;
+    font-size: 14px;
+    background-color: #fff0;
+    padding: 1rem;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+.btn-search-transparent:focus {
+    width: 50%;
+}

@@ -27,6 +27,7 @@ to your project
     padding: 1rem;
     -webkit-transition: width 0.4s ease-in-out;
     transition: width 0.4s ease-in-out;
+    outline: none;
 }
 
 .btn-search-transparent:focus {

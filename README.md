@@ -1,4 +1,7 @@
-# Stylish Transparent Search Button ![alt text][logo]
+![alt text][logo] Isadora Martinez
+
+
+# Stylish Transparent Search Button
 
 
 I added a transparent button in the style of Bootstrap.

@@ -1,4 +1,5 @@
-![alt text][logo] Isadora Martinez
+![alt text][logo] 
+ Isadora Martinez
 
 
 # Stylish Transparent Search Button
@@ -25,7 +26,7 @@ In this project I used some basic technology:
 
 ### Installation
 
-No need to download, just copy past into your project!
+No need to download, just copy & paste into your project!
 
 ### Development
 

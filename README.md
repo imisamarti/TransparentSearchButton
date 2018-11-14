@@ -1,4 +1,4 @@
-# Stylish Transparent Search Button
+# Stylish Transparent Search Button ![alt text][logo]
 
 
 I added a transparent button in the style of Bootstrap.
@@ -42,3 +42,4 @@ MIT
 
 **Free Software, USE IT AS YOU PLEASE!!!!**
 
+[logo]: https://avatars1.githubusercontent.com/u/25556659?s=96&v=4
